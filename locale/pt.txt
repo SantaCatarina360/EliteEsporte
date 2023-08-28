@@ -1,0 +1,68 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_3EC6618B_2AE1_D80E_41C0_C3CA457D8F2A.source = http://twitter.com/loremipsum
+LinkBehaviour_3B7131C2_2AAE_787E_41B0_0A54DB680E70.source = http://twitter.com/loremipsum
+LinkBehaviour_3EC6118C_2AE1_D80A_41B3_3F22072C095E.source = http://www.facebook.com/loremipsum
+LinkBehaviour_3B7101C2_2AAE_787E_41C1_DB3F351B7949.source = http://www.facebook.com/loremipsum
+LinkBehaviour_3EDBF191_2AE1_D81A_41C3_4F987AD87C12.source = https://goo.gl/maps/nraDWyCH4DfKvkyw9
+LinkBehaviour_38AD8238_2AE2_580B_4193_2A97E8F76E9F.source = https://goo.gl/maps/nraDWyCH4DfKvkyw9
+LinkBehaviour_3ED9818F_2AE1_D806_4177_2CC1302EE494.source = https://wa.me/48998384164
+LinkBehaviour_3A98D9E5_2AA2_483A_41BE_08DEDB5300BF.source = https://wa.me/48998384164
+LinkBehaviour_3B7ED1C2_2AAE_787E_41C4_2E92AB7F3DEB.source = https://www.instagram.com/elite.esportess/
+LinkBehaviour_3ED8618D_2AE1_D80A_41BE_902A6303DC4B.source = https://www.instagram.com/elite.esportess/
+LinkBehaviour_3ED85190_2AE1_D81A_417E_2DE6586C1DD2.source = //www.youtube.com/embed/i5FVlSVZDQQ?v=i5FVlSVZDQQ
+LinkBehaviour_3B2C8CA8_2AA1_C80A_41B7_C3F1D83A17FD.source = //www.youtube.com/embed/i5FVlSVZDQQ?v=i5FVlSVZDQQ
+
+## Media
+
+### Audio
+audiores_38472982_29FC_C09E_41C4_A394983E3E50.mp3Url = media/audio_39F21406_2AE6_5806_41C0_964754311A0A_pt.mp3
+audiores_38472982_29FC_C09E_41C4_A394983E3E50.mp3Url = media/audio_39F21406_2AE6_5806_41C0_964754311A0A_pt.mp3
+audiores_38472982_29FC_C09E_41C4_A394983E3E50.mp3Url = media/audio_39F21406_2AE6_5806_41C0_964754311A0A_pt.mp3
+audiores_38472982_29FC_C09E_41C4_A394983E3E50.mp3Url = media/audio_39F21406_2AE6_5806_41C0_964754311A0A_pt.mp3
+audiores_38472982_29FC_C09E_41C4_A394983E3E50.mp3Url = media/audio_39F21406_2AE6_5806_41C0_964754311A0A_pt.mp3
+audiores_38472982_29FC_C09E_41C4_A394983E3E50.mp3Url = media/audio_39F21406_2AE6_5806_41C0_964754311A0A_pt.mp3
+
+### Title
+panorama_2274DF76_29B5_C079_41B1_BE8EF119EF58.label = Camisas
+panorama_227748A4_29B5_C09A_41B3_992AE327AAD3.label = Camisetas
+panorama_2277A58C_29B5_C0A9_41A5_504FAC1699CA.label = Entrada
+panorama_24BBE1FA_29B4_4069_41A5_00CCE66F883C.label = Frente Elite Esporte
+panorama_2273BC0B_29B4_47AE_41A1_7526D7D22257.label = Mostruario Chinelos
+panorama_22776CCD_29B5_C0AA_41C4_BA2458CA10CD.label = bones
+
+## Skin
+
+### Image
+Image_25E16DA9_2AA6_480A_418F_AA754535D70D_mobile.url = skin/Image_25E16DA9_2AA6_480A_418F_AA754535D70D_mobile_pt.png
+Image_25E16DA9_2AA6_480A_418F_AA754535D70D.url = skin/Image_25E16DA9_2AA6_480A_418F_AA754535D70D_pt.png
+Image_39A6684A_2AA2_480E_41B7_2FA84DDA2680_mobile.url = skin/Image_39A6684A_2AA2_480E_41B7_2FA84DDA2680_mobile_pt.png
+Image_39A6684A_2AA2_480E_41B7_2FA84DDA2680.url = skin/Image_39A6684A_2AA2_480E_41B7_2FA84DDA2680_pt.png
+Image_3B05837E_2AA2_5806_41AC_0EC353A53843_mobile.url = skin/Image_3B05837E_2AA2_5806_41AC_0EC353A53843_mobile_pt.png
+Image_3B05837E_2AA2_5806_41AC_0EC353A53843.url = skin/Image_3B05837E_2AA2_5806_41AC_0EC353A53843_pt.png
+Image_3B96342D_2AA2_780A_41C2_823369DC43E8_mobile.url = skin/Image_3B96342D_2AA2_780A_41C2_823369DC43E8_mobile_pt.png
+Image_3B96342D_2AA2_780A_41C2_823369DC43E8.url = skin/Image_3B96342D_2AA2_780A_41C2_823369DC43E8_pt.png
+Image_3BD3561B_2AA6_580E_41C1_CDA23709C418_mobile.url = skin/Image_3BD3561B_2AA6_580E_41C1_CDA23709C418_mobile_pt.png
+Image_3BD3561B_2AA6_580E_41C1_CDA23709C418.url = skin/Image_3BD3561B_2AA6_580E_41C1_CDA23709C418_pt.png
+Image_3E79133B_2AFE_380E_41B1_5063C549EF82.url = skin/Image_3E79133B_2AFE_380E_41B1_5063C549EF82_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+
+### Multiline Text
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:6.56vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:'Segoe UI';"/></p><p STYLE="margin:0; line-height:4.81vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:'Segoe UI';"/></p></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:6.56vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:'Segoe UI';"/></p><p STYLE="margin:0; line-height:4.81vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:'Segoe UI';"/></p></div>
+
+### Tooltip
+MainViewer.toolTip = Elite Esporte \
+
+MainViewer_mobile.toolTip = Elite Esporte \
+
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 1
